@@ -5,7 +5,7 @@
 		"name": "No Zombies",
 		"authors": [ "lcarus" ],
 		"maintainers": [ "Countern" ],
-		"description": "Removes all vanilla zombies from the game. Updated to remove new zombies added since lcarus last updated his mod. Please, remove the old No Zombies mod if you haven't!",
+		"description": "Removes all vanilla zombies from the game.",
 		"category": "monster_exclude",
 		"dependencies": [ "dda" ]
 	},
