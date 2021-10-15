@@ -3,6 +3,9 @@
 A mod that removes *all* vanilla zombies from the game.
 The mod is made by lcarus and has been updated by me, Countern, to remove all the new zombies added since the last mod update.
 
+Updated to experimental build: 2021-10-15-0659
+The mod should work if the experimental version has not added any new zombies since experimental build 2021-10-06-1602.
+
 ### Download & Installation Instructions
 
 1. Remove the old or not updated No Zombies Mod
